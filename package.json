@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Crownex000.github.io/sample-website-design-MT",
+  "homepage": "https://crownex000.github.io/sample-website-design-MT/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",

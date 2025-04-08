@@ -128,7 +128,7 @@ function App() {
             Get paid for sharing your opinions.
           </Typography>
         </Grid>
-        <Box component="img" src={cash1} sx={styles.img} />
+        <Box component="img" src={isMd ? cash1 : cash2} sx={styles.img} />
         <Grid size={{ xs: 12, md: 6 }}>
           <Grid
             container
